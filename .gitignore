@@ -1,0 +1,11 @@
+# Private keys
+*.pem
+
+# Generated signatures
+signature.bin
+
+# Encrypted files
+*.enc
+
+# Decrypted outputs
+decrypted_*
